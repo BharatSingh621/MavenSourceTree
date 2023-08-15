@@ -1,3 +1,0 @@
-Project: SauceDemo
-Tools: Selenium, TestNg
-Version tool: GIT
